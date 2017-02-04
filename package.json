@@ -1,0 +1,25 @@
+{
+  "name": "express-server-test",
+  "version": "1.0.0",
+  "description": "Express server demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvneetKhaira7/Express.git"
+  },
+  "keywords": [
+    "express",
+    "nodeJS",
+    "JavaScript"
+  ],
+  "author": "Avneet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvneetKhaira7/Express/issues"
+  },
+  "homepage": "https://github.com/AvneetKhaira7/Express#readme"
+}
